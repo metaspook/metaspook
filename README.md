@@ -1,5 +1,6 @@
 <!-- Side Image -->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="290px" align="right" alt="LaptopCoffee">
+<a href="https://git.io/metaspook">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="280px" align="right" alt="LaptopCoffee"></a>
 
 <!-- Paragraph and bullets -->
 <p align="left"> 
