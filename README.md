@@ -1,5 +1,5 @@
 <!-- Side Image -->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="275px" max-width="400px" width="200px" align="right" alt="LaptopCoffee">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="400px" width="300px" align="right" alt="LaptopCoffee">
 
 <!-- Paragraph and bullets -->
 <p align="left"> 
