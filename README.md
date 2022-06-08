@@ -1,5 +1,5 @@
 <!-- Side Image -->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="275px" max-width="400px" width="275px" align="right" alt="LaptopCoffee">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="275px" max-width="400px" width="200px" align="right" alt="LaptopCoffee">
 
 <!-- Paragraph and bullets -->
 <p align="left"> 
@@ -8,7 +8,6 @@ I'm <strong>Metaspook</strong>, a Programmer, Ethical Hacker, and Intellimalist.
   - 🔭 I’m currently focusing on <strong>Flutter Apps Development.</strong>
   - 🌱 I’m currently learning <strong>BLoC</strong> and <strong>Cubit</strong> state management.
   - 📫 How to reach me: metaspook@gmail.com
-  <br>
 </p>
 
 <!-- Stats and bullets -->
