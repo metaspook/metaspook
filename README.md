@@ -11,7 +11,7 @@ I'm <strong>Metaspook</strong>, a Programmer, Ethical Hacker, and Intellimalist.
 </p>
 
 <!-- Stats and bullets -->
-<a href="https://git.io/metaspook" target="_blank">
+<a href="https://git.io/metaspook" target="_blank" rel="noopener noreferrer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metaspook&layout=compact&langs_count=7&theme=radical"/>&emsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=metaspook&count_private=true&theme=radical&show_icons=true&include_all_commits=true&hide_rank=false"/>
   
