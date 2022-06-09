@@ -13,8 +13,8 @@ I'm <strong>Metaspook</strong>, a Programmer, Ethical Hacker, and Intellimalist.
 
 <!-- Stats and bullets -->
 <a href="https://git.io/metaspook" target="_blank" rel="noopener noreferrer">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=metaspook&count_private=true&theme=radical&show_icons=true&include_all_commits=true&hide_rank=false"/>&emsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metaspook&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=metaspook&count_private=true&theme=radical&show_icons=true&include_all_commits=true&hide_rank=false"/>&emsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metaspook&layout=compact&langs_count=7&theme=radical"/>
   
   - 🛠️ <strong>Tools:</strong> VS Code, Android Studio, Git, VirtualBox, Kali Linux and Windows 11 MKR.
   - 🦄 <strong>Skills:</strong> Dart, Flutter, BashScript, HTML5, CSS3, JavaScript, PenTesting and more.
