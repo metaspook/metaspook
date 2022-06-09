@@ -9,6 +9,7 @@ I'm <strong>Metaspook</strong>, a Programmer, Ethical Hacker, and Intellimalist.
   - 🔭 I’m currently focusing on <strong>Flutter Apps Development.</strong>
   - 🌱 I’m currently learning <strong>BLoC</strong> and <strong>Cubit</strong> state management.
   - 📫 How to reach me: metaspook@gmail.com | https://t.me/metaspook
+  - 🌐 **Website:** [https://metaspook.github.io](https://metaspook.github.io)
 </p>
 
 <!-- Stats and bullets -->
@@ -18,7 +19,6 @@ I'm <strong>Metaspook</strong>, a Programmer, Ethical Hacker, and Intellimalist.
   
   - 🛠️ <strong>Tools:</strong> VS Code, Android Studio, Git, VirtualBox, Kali Linux and Windows 11 MKR.
   - 🦄 <strong>Skills:</strong> Dart, Flutter, BashScript, HTML5, CSS3, JavaScript, PenTesting and more.
-  - 🌐 [**Website:** https://metaspook.github.io](https://metaspook.github.io)
 </a>
 
 
