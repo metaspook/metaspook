@@ -8,7 +8,8 @@ I'm <strong>Metaspook</strong>, a Programmer, Ethical Hacker, and Intellimalist.
   
   - 🔭 I’m currently focusing on <strong>Flutter Apps Development.</strong>
   - 🌱 I’m currently learning <strong>BLoC</strong> and <strong>Cubit</strong> state management.
-  - 📫 How to reach me: metaspook@gmail.com | https://metaspook.github.io
+  - 📫 How to reach me: metaspook@gmail.com | https://t.me/metaspook
+  [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 </p>
 
 <!-- Stats and bullets -->
