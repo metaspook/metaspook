@@ -33,7 +33,8 @@
 <!-- %E2%80%8D represents Zero Width Joiner Character -->
 ---
 
-  🧑‍💻 **Skills:**
+🧑‍💻 **Skills:**
+
 [![](https://img.shields.io/badge/%E2%80%8D-Dart-%230175C2?style=flat-square&logo=dart)](https://dart.dev/)
 [![](https://img.shields.io/badge/%E2%80%8D-Flutter-%2302569B?style=flat-square&logo=flutter)](https://flutter.dev/)
 [![Bash Script](https://img.shields.io/badge/%E2%80%8D-Bash_Script-4EAA25?style=flat-square&logo=gnu-bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)/)
@@ -45,6 +46,7 @@
 [![](https://img.shields.io/badge/%E2%80%8D-Firebase-%23039BE5?style=flat-square&logo=firebase)](https://firebase.google.com/)
 [![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-white?style=flat-square&logo=github)](https://firebase.google.com/)
 
+---
   
 🧑‍🚀 **Find Me:**
 ![](https://komarev.com/ghpvc/?style=flat&label=Views&username=metaspook)
