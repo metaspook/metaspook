@@ -10,10 +10,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=3000&color=00FFFF&multiline=true&width=600&height=123&lines=Hi%2C+I'm+Metaspook.;A+Programmer%2C+Ethical+Hacker%2C+and+Intellimalist.;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Hacking+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+)](https://git.io/typing-svg)
 <!--   I'm Metaspook, a Programmer, Ethical Hacker, and Intellimalist. Being a tech enthusiast since childhood my objectives are future-proof concepts, self-learning/developing skills and organized working mindset. I've worked in IT sectors, paticipated in cyberwar and geeky stuffs. <strong>Programming</strong> and <strong>Hacking</strong> are like my right and left arms 🤝.<br> -->
   - 🔭 I’m currently focusing on <strong>Flutter Apps Development.</strong>
-  - 🌱 I’m currently learning <strong>BLoC</strong> and <strong>Cubit</strong> state management.
+  - 🌱 I’m currently learning <strong>BLoC</strong> and <strong>Cubit</strong> state management.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://komarev.com/ghpvc/?style=flat&label=Views&username=metaspook)
 <!--   - 📫 How to reach me: metaspook@gmail.com | https://t.me/metaspook -->
 <!--   - 🌐 **Website:** [https://metaspook.github.io](https://metaspook.github.io) -->
-  ![](https://komarev.com/ghpvc/?style=for-the-badge&label=Views&username=metaspook)
+  
 </p>
 
 <!-- Stats and bullets -->
