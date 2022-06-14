@@ -7,7 +7,7 @@
 <!-- Paragraph and bullets -->
 <p align="left">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=3000&color=00FFFF&multiline=true&width=600&height=123&lines=Hi%2C+I'm+Metaspook.;A+Programmer%2C+Ethical+Hacker%2C+and+Intellimalist.;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Hacking+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=2500&color=00FFFF&multiline=true&width=630&height=130&lines=Hi%2C+I'm+Metaspook.;A+Programmer%2C+Ethical+Hacker%2C+and+Intellimalist.;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Hacking+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+;+;+;+;+)
 <!--   I'm Metaspook, a Programmer, Ethical Hacker, and Intellimalist. Being a tech enthusiast since childhood my objectives are future-proof concepts, self-learning/developing skills and organized working mindset. I've worked in IT sectors, paticipated in cyberwar and geeky stuffs. <strong>Programming</strong> and <strong>Hacking</strong> are like my right and left arms 🤝.<br> -->
   - 🔭 I’m currently focusing on <strong>Flutter Apps Development.</strong>
   - 🌱 I’m currently learning <strong>BLoC</strong> and <strong>Cubit</strong> state management.
