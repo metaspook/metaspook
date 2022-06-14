@@ -11,8 +11,9 @@
 <!--   I'm Metaspook, a Programmer, Ethical Hacker, and Intellimalist. Being a tech enthusiast since childhood my objectives are future-proof concepts, self-learning/developing skills and organized working mindset. I've worked in IT sectors, paticipated in cyberwar and geeky stuffs. <strong>Programming</strong> and <strong>Hacking</strong> are like my right and left arms 🤝.<br> -->
   - 🔭 I’m currently focusing on <strong>Flutter Apps Development.</strong>
   - 🌱 I’m currently learning <strong>BLoC</strong> and <strong>Cubit</strong> state management.
-  - 📫 How to reach me: metaspook@gmail.com | https://t.me/metaspook
-  - 🌐 **Website:** [https://metaspook.github.io](https://metaspook.github.io) ![](https://komarev.com/ghpvc/?style=for-the-badge&label=Views&username=metaspook)
+<!--   - 📫 How to reach me: metaspook@gmail.com | https://t.me/metaspook -->
+<!--   - 🌐 **Website:** [https://metaspook.github.io](https://metaspook.github.io) -->
+  ![](https://komarev.com/ghpvc/?style=for-the-badge&label=Views&username=metaspook)
 </p>
 
 <!-- Stats and bullets -->
@@ -44,7 +45,7 @@
 [![Virtual Box](https://img.shields.io/badge/%E2%80%8D-Virtual_Box-4479a1?style=flat-square&logo=virtualbox)](https://code.visualstudio.com/)
 
 
-#### 🧑‍🚀 **Community:**
+#### 🧑‍🚀 **Find Me:**
 [![XDA-Developers](https://img.shields.io/badge/%E2%80%8D-XDA_Recognized_Developer-%23AC6E2F.svg?&logo=XDA-Developers)](https://forum.xda-developers.com/m/metaspook.6029298/#recent-content)
 
 
