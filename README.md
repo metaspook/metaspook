@@ -23,7 +23,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metaspook&layout=compact&langs_count=7&theme=radical"/>
 </a>
 
-
+🌍 **Website:** [https://metaspook.github.io](https://metaspook.github.io)
 
 **🛠️ Platform & Tools:**
 <!-- %E2%80%8D represents Zero Width Joiner Character -->
@@ -54,7 +54,7 @@
 [![Google Developers](https://img.shields.io/badge/%E2%80%8D-g.dev/metaspook-4285F4?logo=google&logoColor=white)](https://g.dev/metaspook)
 ![Profile views](https://komarev.com/ghpvc/?style=flat&label=Views&username=metaspook)
 
-🌐 **Website:** [https://metaspook.github.io](https://metaspook.github.io)
+🌍 **Website:** [https://metaspook.github.io](https://metaspook.github.io)
 <!-- <img height="50" width="288" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/da‍rt.png">
 <img height="50" width="288" src="https://raw.githubusercontent.com/github/explore/gh-pages/topics/dart/dart.png">
 <img height="50" width="288" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> -->
