@@ -21,8 +21,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=metaspook&count_private=true&theme=radical&show_icons=true&include_all_commits=false&hide_rank=false"/>&emsp;
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metaspook&layout=compact&langs_count=7&theme=radical"/>
   
- 🧑‍💻 **Skills:**
-[![](https://img.shields.io/badge/%E2%80%8D-Dart-%230175C2?style=flat-square&logo=dart)](https://dart.dev/)
+### Skills: [![](https://img.shields.io/badge/%E2%80%8D-Dart-%230175C2?style=flat-square&logo=dart)](https://dart.dev/)
 [![](https://img.shields.io/badge/%E2%80%8D-Flutter-%2302569B?style=flat-square&logo=flutter)](https://flutter.dev/)
 [![Bash Script](https://img.shields.io/badge/%E2%80%8D-Bash_Script-4EAA25?style=flat-square&logo=gnu-bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)/)
 [![](https://img.shields.io/badge/%E2%80%8D-JavaScript-f7e200?style=flat-square&logo=javascript)](https://www.ecma-international.org/)
