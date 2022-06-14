@@ -1,7 +1,7 @@
 
 <!-- Side Image -->
 <a href="https://git.io/metaspook" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="240px" align="right" alt="LaptopCoffee"></a>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="150px" align="right" alt="LaptopCoffee"></a>
   
 
 <!-- Paragraph and bullets -->
