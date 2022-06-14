@@ -25,31 +25,32 @@
 
 **🛠️ Platform & Tools:**
 <!-- %E2%80%8D represents Zero Width Joiner Character -->
-[![Windows](https://img.shields.io/badge/%E2%80%8D-Windows_11-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![Debian](https://img.shields.io/badge/%E2%80%8D-Debian-D70A53?style=flat-square&logo=debian)](https://www.debian.org/)
-[![Kali](https://img.shields.io/badge/%E2%80%8D-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)](https://www.kali.org/)
-[![VS Code](https://img.shields.io/badge/%E2%80%8D-VS_Code-0078d7?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Windows 11](https://img.shields.io/badge/%E2%80%8D-Windows_11-0078D6?logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
+[![Debian](https://img.shields.io/badge/%E2%80%8D-Debian-D70A53?logo=debian)](https://www.debian.org/)
+[![Kali](https://img.shields.io/badge/%E2%80%8D-Kali_Linux-557C94?logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![VS Code](https://img.shields.io/badge/%E2%80%8D-VS_Code-0078d7?logo=visual-studio-code)](https://code.visualstudio.com/)
 [![OBS Studio](https://img.shields.io/badge/%E2%80%8D-OBS_Studio-yellowgreen?logo=obs-studio)](https://obsproject.com/)
-[![Virtual Box](https://img.shields.io/badge/%E2%80%8D-Virtual_Box-4479a1?style=flat-square&logo=virtualbox)](https://code.visualstudio.com/)
+[![Virtual Box](https://img.shields.io/badge/%E2%80%8D-Virtual_Box-4479a1?logo=virtualbox)](https://code.visualstudio.com/)
 
 **🧑‍💻 Skills:**
 
-[![](https://img.shields.io/badge/%E2%80%8D-Dart-%230175C2?style=flat-square&logo=dart)](https://dart.dev/)
-[![](https://img.shields.io/badge/%E2%80%8D-Flutter-%2302569B?style=flat-square&logo=flutter)](https://flutter.dev/)
-[![Bash Script](https://img.shields.io/badge/%E2%80%8D-Bash_Script-4EAA25?style=flat-square&logo=gnu-bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)/)
-[![](https://img.shields.io/badge/%E2%80%8D-JavaScript-f7e200?style=flat-square&logo=javascript)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/%E2%80%8D-HTML5-E34F26?style=flat-square&logo=html5)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/%E2%80%8D-CSS3-1572B6?style=flat-square&logo=css3)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/%E2%80%8D-Git-E44C30?style=flat-square&logo=git)](https://git-scm.com/)
-[![](https://img.shields.io/badge/%E2%80%8D-Firebase-%23039BE5?style=flat-square&logo=firebase)](https://firebase.google.com/)
-[![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-white?style=flat-square&logo=github)](https://github.com/)
+[![](https://img.shields.io/badge/%E2%80%8D-Dart-%230175C2?logo=dart)](https://dart.dev/)
+[![](https://img.shields.io/badge/%E2%80%8D-Flutter-%2302569B?logo=flutter)](https://flutter.dev/)
+[![Bash Script](https://img.shields.io/badge/%E2%80%8D-Bash_Script-4EAA25?logo=gnu-bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)/)
+[![](https://img.shields.io/badge/%E2%80%8D-JavaScript-f7e200?logo=javascript)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/%E2%80%8D-HTML5-E34F26?logo=html5)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/%E2%80%8D-CSS3-1572B6?logo=css3)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/%E2%80%8D-Git-E44C30?logo=git)](https://git-scm.com/)
+[![](https://img.shields.io/badge/%E2%80%8D-Firebase-%23039BE5?logo=firebase)](https://firebase.google.com/)
+[![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-white?logo=github)](https://github.com/)
 
 **🧑‍🚀 Find Me:**
 
-![Profile views](https://komarev.com/ghpvc/?style=flat&label=Views&username=metaspook)
-[![XDA-Developers](https://img.shields.io/badge/%E2%80%8D-XDA_Recognized_Developer-%23AC6E2F.svg?&logo=XDA-Developers)](https://forum.xda-developers.com/m/metaspook.6029298/#recent-content)
 [![Gmail](https://img.shields.io/badge/%E2%80%8D-Gmail-D14836?&logo=gmail)](mailto:metaspook@gmail.com)
-[![Telegram](https://img.shields.io/badge/%E2%80%8D-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/metaspook)
+[![Telegram](https://img.shields.io/badge/%E2%80%8D-Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/metaspook)
+[![XDA-Developers](https://img.shields.io/badge/%E2%80%8D-XDA_Recognized_Developer-%23AC6E2F.svg?&logo=XDA-Developers)](https://forum.xda-developers.com/m/metaspook.6029298/#recent-content)
+[![Google Developers](https://img.shields.io/badge/%E2%80%8D-g.dev/metaspook-4285F4?logo=google&logoColor=white)](https://g.dev/metaspook)
+![Profile views](https://komarev.com/ghpvc/?style=flat&label=Views&username=metaspook)
 
 
 <!-- <img height="50" width="288" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/da‍rt.png">
