@@ -24,7 +24,7 @@
 #### 🧑‍💻 **Skills:**
 [![](https://img.shields.io/badge/%E2%80%8D-Dart-%230175C2?style=flat-square&logo=dart)](https://dart.dev/)
 [![](https://img.shields.io/badge/%E2%80%8D-Flutter-%2302569B?style=flat-square&logo=flutter)](https://flutter.dev/)
-[![Bash Script](https://img.shields.io/badge/%E2%80%8D-Bash_Script-4EAA25?style=flat-square&logo=gnu-bash)](https://www.shellscript.sh/)
+[![Bash Script](https://img.shields.io/badge/%E2%80%8D-Bash_Script-4EAA25?style=flat-square&logo=gnu-bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)/)
 [![](https://img.shields.io/badge/%E2%80%8D-JavaScript-f7e200?style=flat-square&logo=javascript)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/%E2%80%8D-HTML5-E34F26?style=flat-square&logo=html5)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/%E2%80%8D-CSS3-1572B6?style=flat-square&logo=css3)](https://www.w3.org/Style/CSS/)
@@ -45,7 +45,7 @@
 
 
 #### 🧑‍🚀 **Community:**
-![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)
+[![XDA-Developers](https://img.shields.io/badge/%E2%80%8D-XDA_Recognized_Developer-%23AC6E2F.svg?&logo=XDA-Developers)](https://forum.xda-developers.com/m/metaspook.6029298/#recent-content)
 
 
 <!-- <img height="50" width="288" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/da‍rt.png">
