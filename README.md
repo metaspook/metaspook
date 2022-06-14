@@ -16,24 +16,23 @@
   
 </p>
 
+---
 <!-- Stats and bullets -->
 <a href="https://git.io/metaspook" target="_blank" rel="noopener noreferrer">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=metaspook&count_private=true&theme=radical&show_icons=true&include_all_commits=false&hide_rank=false"/>&emsp;
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metaspook&layout=compact&langs_count=7&theme=radical"/>
 </a>
 
----
-#### 🛠️ Platform & Tools:
+**🛠️ Platform & Tools:**
+<!-- %E2%80%8D represents Zero Width Joiner Character -->
 [![Windows](https://img.shields.io/badge/%E2%80%8D-Windows_11-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![Debian](https://img.shields.io/badge/%E2%80%8D-Debian-D70A53?style=flat-square&logo=debian)](https://www.debian.org/)
 [![Kali](https://img.shields.io/badge/%E2%80%8D-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 [![VS Code](https://img.shields.io/badge/%E2%80%8D-VS_Code-0078d7?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![OBS Studio](https://img.shields.io/badge/%E2%80%8D-OBS_Studio-yellowgreen?logo=obs-studio)](https://obsproject.com/)
 [![Virtual Box](https://img.shields.io/badge/%E2%80%8D-Virtual_Box-4479a1?style=flat-square&logo=virtualbox)](https://code.visualstudio.com/)
-<!-- %E2%80%8D represents Zero Width Joiner Character -->
----
 
-🧑‍💻 **Skills:**
+**🧑‍💻 Skills:**
 
 [![](https://img.shields.io/badge/%E2%80%8D-Dart-%230175C2?style=flat-square&logo=dart)](https://dart.dev/)
 [![](https://img.shields.io/badge/%E2%80%8D-Flutter-%2302569B?style=flat-square&logo=flutter)](https://flutter.dev/)
@@ -46,9 +45,8 @@
 [![](https://img.shields.io/badge/%E2%80%8D-Firebase-%23039BE5?style=flat-square&logo=firebase)](https://firebase.google.com/)
 [![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-white?style=flat-square&logo=github)](https://firebase.google.com/)
 
----
-  
-🧑‍🚀 **Find Me:**
+**🧑‍🚀 Find Me:**
+
 ![](https://komarev.com/ghpvc/?style=flat&label=Views&username=metaspook)
 [![XDA-Developers](https://img.shields.io/badge/%E2%80%8D-XDA_Recognized_Developer-%23AC6E2F.svg?&logo=XDA-Developers)](https://forum.xda-developers.com/m/metaspook.6029298/#recent-content)
 
