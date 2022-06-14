@@ -44,9 +44,7 @@
 [![](https://img.shields.io/badge/%E2%80%8D-Git-E44C30?style=flat-square&logo=git)](https://git-scm.com/)
 [![](https://img.shields.io/badge/%E2%80%8D-Firebase-%23039BE5?style=flat-square&logo=firebase)](https://firebase.google.com/)
 [![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-white?style=flat-square&logo=github)](https://firebase.google.com/)
-
-**🧑‍🚀 Find Me:**
-
+#### 🧑‍🚀 Find Me:
 ![](https://komarev.com/ghpvc/?style=flat&label=Views&username=metaspook)
 [![XDA-Developers](https://img.shields.io/badge/%E2%80%8D-XDA_Recognized_Developer-%23AC6E2F.svg?&logo=XDA-Developers)](https://forum.xda-developers.com/m/metaspook.6029298/#recent-content)
 
