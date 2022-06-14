@@ -33,27 +33,34 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 
-#### 🎛️ Platform & Tools
-![Windows](https://img.shields.io/badge/%E2%80%8D-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Debian](https://img.shields.io/badge/%E2%80%8D-Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Kali](https://img.shields.io/badge/%E2%80%8D-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-<!-- %E2%80%8D represents Zero Width Joiner Character -->
-[![](https://img.shields.io/badge/%E2%80%8D-Windows%2011-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/%E2%80%8D-Debian-c70137?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org/)
-[![](https://img.shields.io/badge/%E2%80%8D-Kali%20Linux-blue?style=flat-square&logo=kali-linux&logoColor=ffffff)](https://www.kali.org/)
-
-[![](https://img.shields.io/badge/%E2%80%8D-VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/%E2%80%8D-Virtual%20Box-4479a1?style=flat-square&logo=virtualbox&logoColor=ffffff)](https://code.visualstudio.com/)
-<!-- [![](https://img.shields.io/badge/Docker-20-0193d7?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/) -->
-[![](https://img.shields.io/badge/%E2%80%8D-Dart-6ec6ee?style=flat-square&logo=dart)](https://dart.dev/)
-[![](https://img.shields.io/badge/%E2%80%8D-Flutter-8512f3?style=flat-square&logo=flutter)](https://flutter.dev/)
+#### 🧑‍💻 **Skills:**
+[![](https://img.shields.io/badge/%E2%80%8D-Dart-%230175C2?style=flat-square&logo=dart)](https://dart.dev/)
+[![](https://img.shields.io/badge/%E2%80%8D-Flutter-%2302569B?style=flat-square&logo=flutter)](https://flutter.dev/)
 [![](https://img.shields.io/badge/%E2%80%8D-Bash-E34F26?style=flat-square&logo=linux&logoColor=white)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/%E2%80%8D-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/%E2%80%8D-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/%E2%80%8D-JavaScript-f7e200?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/%E2%80%8D-HTML5-E34F26?style=flat-square&logo=html5)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/%E2%80%8D-CSS3-1572B6?style=flat-square&logo=css3)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/%E2%80%8D-JavaScript-f7e200?style=flat-square&logo=javascript)](https://www.ecma-international.org/)
 
-![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)
+[![](https://img.shields.io/badge/%E2%80%8D-Git-E44C30?style=flat-square&logo=git)](https://git-scm.com/)
+[![](https://img.shields.io/badge/%E2%80%8D-Firebase-%23039BE5?style=flat-square&logo=firebase)](https://firebase.google.com/)
+[![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-white?style=flat-square&logo=github)](https://firebase.google.com/)
+[![Bash Script](https://img.shields.io/badge/%E2%80%8D-GitHub-white?style=flat-square&logo=github)](https://firebase.google.com/)
+
+https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white
+![GitHub](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-grey?style=for-the-badge&logo=gnu-bash&logoColor=white)
+#### 🛠️ **Platform & Tools:**
+<!-- %E2%80%8D represents Zero Width Joiner Character -->
+[![Windows](https://img.shields.io/badge/%E2%80%8D-Windows_11-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![Debian](https://img.shields.io/badge/%E2%80%8D-Debian-D70A53?style=flat-square&logo=debian)](https://www.debian.org/)
+[![Kali](https://img.shields.io/badge/%E2%80%8D-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![VS Code](https://img.shields.io/badge/%E2%80%8D-VS_Code-0078d7?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Virtual Box](https://img.shields.io/badge/%E2%80%8D-Virtual_Box-4479a1?style=flat-square&logo=virtualbox)](https://code.visualstudio.com/)
+
+
+#### 🧑‍🚀 **Community:**
+![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -61,14 +68,7 @@
 
 [![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://firebase.google.com/)
 
-[![](https://img.shields.io/badge/%E2%80%8D-Firebase-8512f3?style=flat-square&logo=firebase)](https://firebase.google.com/)
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
-[![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/-Redis-d92b21?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-[![](https://img.shields.io/badge/-MuirWgineX-dd001b?style=flat-square&logoColor=white)](https://muir.fun/)
+
 
 
 
