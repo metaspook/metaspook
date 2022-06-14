@@ -24,15 +24,15 @@
 #### 🧑‍💻 **Skills:**
 [![](https://img.shields.io/badge/%E2%80%8D-Dart-%230175C2?style=flat-square&logo=dart)](https://dart.dev/)
 [![](https://img.shields.io/badge/%E2%80%8D-Flutter-%2302569B?style=flat-square&logo=flutter)](https://flutter.dev/)
-[![](https://img.shields.io/badge/%E2%80%8D-Bash-E34F26?style=flat-square&logo=linux&logoColor=white)](https://html.spec.whatwg.org/)
+[![Bash Script](https://img.shields.io/badge/%E2%80%8D-Bash_Script-4EAA25?style=flat-square&logo=gnu-bash)](https://www.shellscript.sh/)
+[![](https://img.shields.io/badge/%E2%80%8D-JavaScript-f7e200?style=flat-square&logo=javascript)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/%E2%80%8D-HTML5-E34F26?style=flat-square&logo=html5)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/%E2%80%8D-CSS3-1572B6?style=flat-square&logo=css3)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/%E2%80%8D-JavaScript-f7e200?style=flat-square&logo=javascript)](https://www.ecma-international.org/)
 
 [![](https://img.shields.io/badge/%E2%80%8D-Git-E44C30?style=flat-square&logo=git)](https://git-scm.com/)
 [![](https://img.shields.io/badge/%E2%80%8D-Firebase-%23039BE5?style=flat-square&logo=firebase)](https://firebase.google.com/)
 [![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-white?style=flat-square&logo=github)](https://firebase.google.com/)
-[![Bash Script](https://img.shields.io/badge/%E2%80%8D-Bash_Script-4EAA25?style=flat-square&logo=gnu-bash)](https://firebase.google.com/)
+
 
 #### 🛠️ **Platform & Tools:**
 <!-- %E2%80%8D represents Zero Width Joiner Character -->
@@ -40,6 +40,7 @@
 [![Debian](https://img.shields.io/badge/%E2%80%8D-Debian-D70A53?style=flat-square&logo=debian)](https://www.debian.org/)
 [![Kali](https://img.shields.io/badge/%E2%80%8D-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 [![VS Code](https://img.shields.io/badge/%E2%80%8D-VS_Code-0078d7?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![OBS Studio](https://img.shields.io/badge/%E2%80%8D-OBS_Studio-yellowgreen?logo=obs-studio)](https://obsproject.com/)
 [![Virtual Box](https://img.shields.io/badge/%E2%80%8D-Virtual_Box-4479a1?style=flat-square&logo=virtualbox)](https://code.visualstudio.com/)
 
 
