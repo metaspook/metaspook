@@ -40,13 +40,16 @@
 [![](https://img.shields.io/badge/%E2%80%8D-JavaScript-f7e200?style=flat-square&logo=javascript)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/%E2%80%8D-HTML5-E34F26?style=flat-square&logo=html5)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/%E2%80%8D-CSS3-1572B6?style=flat-square&logo=css3)](https://www.w3.org/Style/CSS/)
-
 [![](https://img.shields.io/badge/%E2%80%8D-Git-E44C30?style=flat-square&logo=git)](https://git-scm.com/)
 [![](https://img.shields.io/badge/%E2%80%8D-Firebase-%23039BE5?style=flat-square&logo=firebase)](https://firebase.google.com/)
-[![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-white?style=flat-square&logo=github)](https://firebase.google.com/)
-#### 🧑‍🚀 Find Me:
-![](https://komarev.com/ghpvc/?style=flat&label=Views&username=metaspook)
+[![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-white?style=flat-square&logo=github)](https://github.com/)
+
+**🧑‍🚀 Find Me:**
+
+![Profile views](https://komarev.com/ghpvc/?style=flat&label=Views&username=metaspook)
 [![XDA-Developers](https://img.shields.io/badge/%E2%80%8D-XDA_Recognized_Developer-%23AC6E2F.svg?&logo=XDA-Developers)](https://forum.xda-developers.com/m/metaspook.6029298/#recent-content)
+[![Gmail](https://img.shields.io/badge/%E2%80%8D-Gmail-D14836?&logo=gmail)](mailto:metaspook@gmail.com)
+[![Telegram](https://img.shields.io/badge/%E2%80%8D-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/metaspook)
 
 
 <!-- <img height="50" width="288" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/da‍rt.png">
