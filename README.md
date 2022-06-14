@@ -1,19 +1,16 @@
 
 <!-- Side Image -->
 <a href="https://git.io/metaspook" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="220px" align="right" alt="LaptopCoffee"></a>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="225px" align="right" alt="LaptopCoffee"></a>
   
 
 <!-- Paragraph and bullets -->
 <p align="left">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=500&color=00FFFF&multiline=true&width=595&height=105&lines=Hi%2C+I'm+Metaspook.;A+Programmer%2C+Ethical+Hacker%2C+and+Intellimalist.;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Hacking+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+;+;+;+;+)
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2500&color=00FFFF&multiline=true&width=595&height=105&lines=Hi%2C+I'm+Metaspook.;A+Programmer%2C+Ethical+Hacker%2C+and+Intellimalist.;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Hacking+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+;+;+;+;+)
 <!--   I'm Metaspook, a Programmer, Ethical Hacker, and Intellimalist. Being a tech enthusiast since childhood my objectives are future-proof concepts, self-learning/developing skills and organized working mindset. I've worked in IT sectors, paticipated in cyberwar and geeky stuffs. <strong>Programming</strong> and <strong>Hacking</strong> are like my right and left arms 🤝.<br> -->
   - 🔭 I’m currently focusing on <strong>Flutter Apps Development.</strong>
   - 🌱 I’m currently learning <strong>BLoC</strong> and <strong>Cubit</strong> state management.
-<!--   - 📫 How to reach me: metaspook@gmail.com | https://t.me/metaspook -->
-<!--   - 🌐 **Website:** [https://metaspook.github.io](https://metaspook.github.io) -->
-  
 </p>
 
 ---
