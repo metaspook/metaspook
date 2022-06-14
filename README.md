@@ -23,7 +23,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metaspook&layout=compact&langs_count=7&theme=radical"/>
 </a>
 
-🌍 **Website:** [https://metaspook.github.io](https://metaspook.github.io)
+**🌍 Website:**&emsp;[https://metaspook.github.io](https://metaspook.github.io)
 
 **🛠️ Platform & Tools:**
 <!-- %E2%80%8D represents Zero Width Joiner Character -->
@@ -36,14 +36,14 @@
 
 **🧑‍💻 Skills:**
 
-[![](https://img.shields.io/badge/%E2%80%8D-Dart-%230175C2?logo=dart)](https://dart.dev/)
-[![](https://img.shields.io/badge/%E2%80%8D-Flutter-%2302569B?logo=flutter)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/%E2%80%8D-Dart-%230175C2?logo=dart)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/%E2%80%8D-Flutter-%2302569B?logo=flutter)](https://flutter.dev/)
 [![Bash Script](https://img.shields.io/badge/%E2%80%8D-Bash_Script-4EAA25?logo=gnu-bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)/)
-[![](https://img.shields.io/badge/%E2%80%8D-JavaScript-f7e200?logo=javascript)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/%E2%80%8D-HTML5-E34F26?logo=html5)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/%E2%80%8D-CSS3-1572B6?logo=css3)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/%E2%80%8D-Git-E44C30?logo=git)](https://git-scm.com/)
-[![](https://img.shields.io/badge/%E2%80%8D-Firebase-%23039BE5?logo=firebase)](https://firebase.google.com/)
+[![JavaScript](https://img.shields.io/badge/%E2%80%8D-JavaScript-f7e200?logo=javascript)](https://www.ecma-international.org/)
+[![HTML5](https://img.shields.io/badge/%E2%80%8D-HTML5-E34F26?logo=html5)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/%E2%80%8D-CSS3-1572B6?logo=css3)](https://www.w3.org/Style/CSS/)
+[![Git](https://img.shields.io/badge/%E2%80%8D-Git-E44C30?logo=git)](https://git-scm.com/)
+[![Firebase](https://img.shields.io/badge/%E2%80%8D-Firebase-%23039BE5?logo=firebase)](https://firebase.google.com/)
 [![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-white?logo=github)](https://github.com/)
 
 **🧑‍🚀 Find Me:**
@@ -54,7 +54,7 @@
 [![Google Developers](https://img.shields.io/badge/%E2%80%8D-g.dev/metaspook-4285F4?logo=google&logoColor=white)](https://g.dev/metaspook)
 ![Profile views](https://komarev.com/ghpvc/?style=flat&label=Views&username=metaspook)
 
-🌍 **Website:** [https://metaspook.github.io](https://metaspook.github.io)
+
 <!-- <img height="50" width="288" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/da‍rt.png">
 <img height="50" width="288" src="https://raw.githubusercontent.com/github/explore/gh-pages/topics/dart/dart.png">
 <img height="50" width="288" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> -->
