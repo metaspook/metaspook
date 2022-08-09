@@ -8,8 +8,8 @@
 <p align="left">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2500&color=ff0099&multiline=true&width=595&height=123&lines=Hi%2C+I'm+Metaspook.;A+Programmer%2C+Ethical+Hacker%2C+and+Intellimalist.;Being+a+tech+enthusiast+since+childhood+my+objectives+are+future-proof+;concepts%2C+self-learning%2Fdeveloping+skills+and+organized+working+mindset.;I've+worked+in+IT+sectors%2C+paticipated+in+cyberwar+and+geeky+stuffs.;Programming++and+Hacking+are+like+my+right+and+left+arms+%F0%9F%A4%9D.;+;+;+;+;+)
-  - 🔭 I’m currently focusing on <strong>Flutter Apps Development.</strong>
-  - 🌱 I’m currently learning <strong>BLoC</strong> and <strong>Cubit</strong> state management.
+  - 🔭 I’m currently focusing on <strong>[Flutter Apps Development](https://flutter.dev)</strong>.
+  - 🌱 I’m currently learning <strong>[BLoC](https://bloclibrary.dev)</strong>.
 </p>
 
 ---
